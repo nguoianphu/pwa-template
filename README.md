@@ -1,5 +1,5 @@
 # pwa-template
-For setting up manifest.json, go to https://app-manifest.firebaseapp.com/ to generate manifest.json
+### For setting up manifest.json, go to https://app-manifest.firebaseapp.com/ to generate manifest.json
   * "start_url": "/project-name/",
   * We don't need to set "scope" : '/'
 ### In sw.js, we need to modify these places:
