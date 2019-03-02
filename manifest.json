@@ -1,8 +1,8 @@
 {
-  "name": "RC Time Trial",
-  "short_name": "RCTimeTrial",
-  "description": "A RC Game made with Three.js",
-  "start_url": "/project-name/",
+  "name": "Your Project Name",
+  "short_name": "Short Name for Your Project",
+  "description": "Descriptions of Your Project",
+  "start_url": "/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "fullscreen",
